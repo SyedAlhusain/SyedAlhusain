@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **PyTorch**
 
-- 👨‍💻 All of my projects are available at [https://husainsalamdar786.wixsite.com/syed-husain](https://husainsalamdar786.wixsite.com/syed-husain)
+- 👨‍💻 All of my projects are available at [https://syedhusain.vercel.app/](https://syedhusain.vercel.app/)
 
 - 💬 Ask me about **Python**
 
