@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Syed Husain</h1>
-<h3 align="center">I'm a ML Researcher at ARL and a recent CS graduate from @umbc with a track in AI and Data Science /h3>
+<h3 align="center">I'm a ML Researcher at ARL and a recent CS graduate from @umbc with a track in AI and Data Science/h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif">
 
 - 🔭 I’m currently working on [Drift Travel App](https://github.com/SyedAlhusain/Drift-Travel-App)
