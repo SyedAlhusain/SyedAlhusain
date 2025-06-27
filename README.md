@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **husainsalamdar786@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1bBNJE3GYDq1oEgdl2c3BCnvOeAb_SJUJ/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://782b8ba1-e9c9-4458-a8c3-262498a2091d.filesusr.com/ugd/40204f_67e42f7a2e164a878e1d2cbfc3cec9c9.pdf)
 
 - ⚡ Fun fact **I love soccer**
 
